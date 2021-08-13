@@ -88,7 +88,7 @@ O objetivo desse projeto foi alcançado, visto que um dashboard online foi dispo
 
 Nesse dashboard será possível observar validações de hipóteses levantadas, bem como o acesso às tabelas  montadas conforme proposto neste projeto.
 
-[<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://househouse.herokuapp.com)
+[<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://fjj001-house-rocket.herokuapp.com/)
 
 ## 6. Next Steps to Improve
  - Melhorar a apresentação dos valores dos gráficos apresentados. Atualmente o usuário é obrigado a colocar o mouse por cima da barra no gráfico para ver o valor que aquela barra representa, por exemplo.
